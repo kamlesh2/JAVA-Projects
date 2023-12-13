@@ -1,0 +1,12 @@
+check Overloading:-
+class public 
+--->pub
+class protected 
+--->pro,public
+class default 
+--->public,protected,,default
+
+
+
+Constractor:-
+try access Modifier(public,protected,default,private)

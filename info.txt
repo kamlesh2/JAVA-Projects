@@ -1,0 +1,18 @@
+1.atm
+
+2.registration form -> show in table using sevlet connectivity
+
+
+
+
+3.4 button
+add -> class file only object access
+division -> 
+multi ->
+sub ->
+
+
+4.curruncy
+
+
+view->controler->model(been)->dab(database)

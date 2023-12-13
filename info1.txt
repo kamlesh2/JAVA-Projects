@@ -1,0 +1,19 @@
+public ->protected
+	 defualt
+	 private
+       ->overloading->
+protected->defualt
+	   private
+	 ->overloading->
+defualt->
+private->
+
+
+
+
+.profile building
+.personal portfol website
+.project
+.audio & video animation for project regarding
+.hacking(cyber sycurity)
+
